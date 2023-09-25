@@ -17,8 +17,8 @@ If The User is Not Created any Account then Click on Create an Account
 
 ### 3. Before File Upload Page ---
 ### Screenshot of Before Uploading the File in File Upload Page :
-![LoginPage UI](./Screenshots/FileUploadUiBefore.png)
+![LoginPage UI](./Screenshots/FileUploadUIBefore.png)
 
 ### 4. After File Upload Page ---
 ### Screenshot of Before Uploading the File in File Upload Page :
-![LoginPage UI](./Screenshots/FileUploadUIAfter.png)
+![LoginPage UI](./Screenshots/FileUploadUiAfter.png)
