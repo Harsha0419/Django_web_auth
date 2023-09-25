@@ -9,3 +9,16 @@ Step By Step Process of User-Login Authentication :
 ### 1. User Login Page ---
 ### Screenshot of Login Page :
 ![LoginPage UI](./Screenshots/loginUi1.png)
+
+If The User is Not Created any Account then Click on Create an Account
+### 2. Sign UP Page ---
+### Screenshot of Sign Up Page :
+![LoginPage UI](./Screenshots/SignupUi.png)
+
+### 3. Before File Upload Page ---
+### Screenshot of Before Uploading the File in File Upload Page :
+![LoginPage UI](./Screenshots/FileUploadUiAfter.png)
+
+### 4. After File Upload Page ---
+### Screenshot of Before Uploading the File in File Upload Page :
+![LoginPage UI](./Screenshots/FileUploadUIBefore.png)
