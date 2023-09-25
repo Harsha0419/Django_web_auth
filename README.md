@@ -6,6 +6,6 @@ The combination of user authentication and file upload functionality will allow 
 
 Step By Step Process of User-Login Authentication :
 
-1. User Login Page ---
+### 1. User Login Page ---
 ### Screenshot of Login Page :
-![LoginPage UI] (./Screenshots/loginUi.png)
+![LoginPage UI](./Screenshots/loginUi.png)
