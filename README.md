@@ -4,7 +4,7 @@ The Project is to create a Django web application that includes a user authentic
 
 The combination of user authentication and file upload functionality will allow your Django application to securely manage user accounts and handle uploaded files, making it suitable for a wide range of web applications, such as document management systems, image galleries, or collaborative platforms.
 
-Step By Step Process of User-Login Authentication :
+## Step By Step Process of User-Login Authentication :
 
 ### 1. User Login Page ---
 ### Screenshot of Login Page :
